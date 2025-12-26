@@ -1,6 +1,5 @@
-## Hi 👋
-<img src="Nupur Agarwal.mp4">
 <h1 align="center">Hi 👋, I'm Nupur Agarwal</h1>
+<img src="Nupur Agarwal.mp4">
 <h3 align="center">Software Developer | ML & Research Enthusiast | Web & Data Projects</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nupuragarwal113" alt="nupuragarwal113" /></a> </p>
