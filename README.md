@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nupur Agarwal</h1>
-<img src="Nupuragarwal113/Nupur Agarwal.mp4" height="40" width="40">
-<h3 align="center">Software Developer | AI-ML & Research Enthusiast | Web & Data Projects</h3>
+<p align="center">
+  <img src="Nupur Agarwal.gif" style="height:500px; object-fit:cover; max-width=100%; border-radius=12px;"/>
+</p>
+  <h3 align="center">Software Developer | AI-ML & Research Enthusiast | Web & Data Projects</h3>
 
 - 📫 How to reach me **nupuragarwal1133@gmail.com**
 
