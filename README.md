@@ -3,6 +3,15 @@
   <img src="Nupur Agarwal.gif" style="height:500px; object-fit:cover; max-width=100%; border-radius=12px;"/>
 </p>
   <h3 align="center">Software Developer | AI-ML & Research Enthusiast | Web & Data Projects</h3>
+  <ul>
+  <li>💻 Computer Science undergraduate @ Manipal University Jaipur, passionate about building software and intelligent systems.</li>
+  <li>🧠 Working at the intersection of AI, Machine Learning, and Real-World Problems</li>
+  <li>🌐 Experienced in developing web applications using JavaScript, and modern APIs</li>
+  <li>🧬 Conducted research on breast cancer drug discovery using molecular data and deep learning models</li>
+  <li>📊 Skilled in Python, Java, SQL, and data analysis for extracting insights and building predictive models</li>
+  <li>🚀 Always exploring new technologies and transforming ideas into scalable, impactful products</li>
+</ul>
+
 
 - 📫 How to reach me **nupuragarwal1133@gmail.com**
 
